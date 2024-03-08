@@ -137,6 +137,10 @@ textarea {
   height: 24px;
   width: 24px;
 }
+#checkbox:hover{
+  cursor: pointer;
+  background-color: #f1fbff;
+}
 .disp {
   display: flex;
   gap: 8px;
